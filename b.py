@@ -1,5 +1,5 @@
-s = 3
-d = 52
-f = 324
+a = 33
+b = 52
+c = 33
 
-print(s+d+f)
+print(a+b+b+c)
